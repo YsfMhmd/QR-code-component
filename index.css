@@ -17,6 +17,7 @@ body {
     background-color: #ffffff;
     border-radius: 20px;
     padding: 1rem 1rem 2.5rem 1rem;
+    filter: drop-shadow(rgba(0, 0, 0, 0.0477) 0 25px 25px);
 }
 img {
     height: 18rem;
